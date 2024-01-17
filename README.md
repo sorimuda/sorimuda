@@ -2,7 +2,7 @@
 - 👀 I’m interested in Material Design System
 - 🌱 I’m currently learning Design System
 - 💞️ I’m looking to collaborate on  UI / UX Design work
-- 📫 How to reach me on my email mistaflex40@gmail.com
+- 📫 Reach me on my email mistaflex40@gmail.com
 
 <!---
 sorimuda/sorimuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
